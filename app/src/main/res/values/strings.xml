@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseDB</string>
+
+    <array name="genres">
+
+        <item name="rock">Rock</item>
+        <item name="pop">Pop</item>
+        <item name="hip_hop">Hip Hop</item>
+        <item name="heavy_metal">Heavy Metal</item>
+        <item name="jazz">Jazz</item>
+        <item name="rnb">RnB</item>
+
+    </array>
+</resources>
